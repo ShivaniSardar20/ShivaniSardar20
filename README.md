@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @ShivaniSardar
-- 👀 I’m interested in software develop
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @ShivaniSardar20
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on software
 - 📫 You can contact me at Email addrecess shivanisardar29@gamil.com 
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
 <!---
