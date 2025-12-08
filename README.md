@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivani Sardar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/7034c685-09b6-4266-9482-7ba8a4f096cc" /> 
+<img align="right" width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/7034c685-09b6-4266-9482-7ba8a4f096cc" /> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanisardar20&label=Profile%20views&color=0e75b6&style=flat" alt="shivanisardar20" /> </p>
