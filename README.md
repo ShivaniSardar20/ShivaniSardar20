@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer • MCA Student • Tech Enthusiast</h3>
 
 <!-- Right-side Image -->
-<img align="right" width="280" src="[[https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.animefeminist.com%2Fanifam%2Fsubmissions%2Ftype-computer-squid-girl%2F&ved=0CBQQjRxqFwoTCMDu1K2Nx5EDFQAAAAAdAAAAABAI&opi=89978449)](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.animefeminist.com%2Fanifam%2Fsubmissions%2Ftype-computer-squid-girl%2F&ved=0CBYQjhxqFwoTCMDu1K2Nx5EDFQAAAAAdAAAAABAI&opi=89978449)" />
+<img align="right" width="280" src="[[[https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.animefeminist.com%2Fanifam%2Fsubmissions%2Ftype-computer-squid-girl%2F&ved=0CBQQjRxqFwoTCMDu1K2Nx5EDFQAAAAAdAAAAABAI&opi=89978449)](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.animefeminist.com%2Fanifam%2Fsubmissions%2Ftype-computer-squid-girl%2F&ved=0CBYQjhxqFwoTCMDu1K2Nx5EDFQAAAAAdAAAAABAI&opi=89978449)](https://i2.wp.com/www.animefeminist.com/wp-content/uploads/2020/04/type-computer-squid-girl.gif?fit=350%2C197&ssl=1)" />
 
 
 <p align="left">
