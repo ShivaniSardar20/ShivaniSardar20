@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Shivani Sardar</h1>
 <h3 align="center">Web Developer • MCA Student • Tech Enthusiast</h3>
 
