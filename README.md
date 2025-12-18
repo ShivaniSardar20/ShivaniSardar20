@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer • MCA Student • Tech Enthusiast</h3>
 
 <!-- Right-side Image -->
-<img align="right" width="187" src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&ved=0CBQQjRxqFwoTCLD9pIOPx5EDFQAAAAAdAAAAABAI&opi=89978449" />
+<img align="right" width="280" src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&ved=0CBQQjRxqFwoTCLD9pIOPx5EDFQAAAAAdAAAAABAI&opi=89978449" />
 
 
 <p align="left">
