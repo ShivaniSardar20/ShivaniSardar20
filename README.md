@@ -2,10 +2,7 @@
 <h3 align="center">Web Developer • MCA Student • Tech Enthusiast</h3>
 
 <!-- Right-side Image -->
-<img align="right" width="280" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
-
-
-
+<img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shivanisardar20&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
