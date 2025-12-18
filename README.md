@@ -2,7 +2,8 @@
 <h3 align="center">Web Developer • MCA Student • Tech Enthusiast</h3>
 
 <!-- Right-side Image -->
-<img align="right" width="300" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+
 
 
 
