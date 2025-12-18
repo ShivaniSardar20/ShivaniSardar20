@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer • MCA Student • Tech Enthusiast</h3>
 
 <!-- Right-side Image -->
-<img align="right" width="187" src="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.animefeminist.com/anifam/submissions/type-computer-squid-girl/&ved=2ahUKEwjRlYKtjceRAxULna8BHdNXKZMQh-wKegQIGxAF&usg=AOvVaw1ChT8aMC1FceRRQP3v2U56" />
+<img align="right" width="187" src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&ved=0CBQQjRxqFwoTCLD9pIOPx5EDFQAAAAAdAAAAABAI&opi=89978449" />
 
 
 <p align="left">
