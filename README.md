@@ -4,9 +4,6 @@
 <!-- Right-side Image -->
 <img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
-
-
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shivanisardar20&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
