@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer • MCA Student • Tech Enthusiast</h3>
 
 <!-- Right-side Image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Shivani%20Sardar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20MCA%20Student&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Hi%20I%27m%20Shivani%20Sardar&fontSize=38&animation=twinkling&fontAlignY=40&desc=Passionate%20Web%20Developer&descAlignY=65" />
 
 
 
