@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="180"/>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Shivani%20Sardar&fontSize=45&desc=Passionate%20Web%20Developer&descAlignY=70" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Shivani Sardar</h1>
 <h3 align="center">Web Developer • MCA Student • Tech Enthusiast</h3>
 
