@@ -2,7 +2,8 @@
 <h3 align="center">Web Developer • MCA Student • Tech Enthusiast</h3>
 
 <!-- Right-side Image -->
-<img align="right" width="350" alt="Coding Girl" src="https://github.com/user-attachments/assets/7034c685-09b6-4266-9482-7ba8a4f096cc"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shivanisardar20&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
