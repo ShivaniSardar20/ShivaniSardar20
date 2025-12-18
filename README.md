@@ -2,7 +2,8 @@
 <h3 align="center">Web Developer • MCA Student • Tech Enthusiast</h3>
 
 <!-- Right-side Image -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&section=header&text=Shivani%20Sardar&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Web%20Developer%20from%20India&descAlignY=65" />
+<img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shivanisardar20&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
